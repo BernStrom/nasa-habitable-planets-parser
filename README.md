@@ -10,9 +10,9 @@
     Data gathered from the <a href="https://exoplanetarchive.ipac.caltech.edu/docs/data.html">NASA Exoplanet Archive</a> 
 </h6>
 
-## Intro
+## About
 
-A mini-program built with Deno to parse through NASA's exoplanet archive for Earth-like planets that fits within a set of habitable range profile.
+A mini-program built with Deno to parse through NASA's exoplanet archive data for Earth-like planets that fits within a set of habitable range profile.
 
 ## Installation
 
