@@ -6,9 +6,9 @@
     Habitable Planets Parser
 </h1>
 
-<h5 align="center">
+<h6 align="center">
     Data gathered from the <a href="https://exoplanetarchive.ipac.caltech.edu/docs/data.html">NASA Exoplanet Archive</a> 
-</h5>
+</h6>
 
 ## Intro
 
@@ -22,19 +22,18 @@ _**Note: Before running the program, please ensure you have Deno installed on yo
 2. In your terminal, run: `deno run --allow-read mod.ts`
 3. You should see the program return a list of planet objects with the number of habitable planets:
 
-   `{`
-
-        koi_prad: "0.90",
-        koi_smass: "0.9090",
-        koi_srad: "0.9930",
-        kepler_name: "Kepler-1560 b",
-        koi_count: "1",
-        koi_steff: "5755.00",
-        koi_period: "3.031968120"
-
-   `}`
-
-   `8 habitable planets found!`
+   
+        {
+            koi_prad: "0.90",
+            koi_smass: "0.9090",
+            koi_srad: "0.9930",
+            kepler_name: "Kepler-1560 b",
+            koi_count: "1",
+            koi_steff: "5755.00",
+            koi_period: "3.031968120"
+        }
+   
+        8 habitable planets found!
 
 ## :memo: License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
