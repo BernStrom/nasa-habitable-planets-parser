@@ -14,6 +14,8 @@
 
 A mini-program built with Deno to parse through NASA's exoplanet archive data for Earth-like planets that fits within a set of habitable range profile.
 
+:point_right: [Link to Node.js version here](https://github.com/BernStrom/kepler-exoplanents "Kepler Exoplanets")
+
 ## Installation
 
 _**Note: Before running the program, please ensure you have Deno installed on your machine.**_
